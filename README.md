@@ -11,6 +11,7 @@ Dự án **Employee Management** là một hệ thống quản lý nhân sự đ
 - **Backend**: PHP Laravel
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
+![image](https://github.com/user-attachments/assets/78e764d8-a79c-4cc3-9066-0ec189c2d5b7)
 
 ## Cài đặt
 ### Yêu cầu hệ thống
